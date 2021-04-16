@@ -12,3 +12,4 @@ PROJECT IS STILL IN DEVELOPMENT, ANY/ALL CODE HERE WILL NOT WORK PROPERLY UNLESS
 - Add more stuff to README
 - Implement a GUI for binding inputs
 - ADD MORE BUTTONS!!
+- Figure out license
