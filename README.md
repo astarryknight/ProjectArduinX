@@ -3,7 +3,7 @@
 Project ArduinX is the "Controller of the future" (or maybe not :satisfied:)
 
 - Takes inputs from Arduino and outputs them as keyboard/controller inputs
-- More cost effective (actually probably not)
+- More cost effective than regular xbox controllers (actually probably not)
 - DIY capabilities
 
 PROJECT IS STILL IN DEVELOPMENT, ANY/ALL CODE HERE WILL NOT WORK PROPERLY UNLESS YOU HAVE THE PROPER HARDWARE AND PROGRAMMING ENVIRONMENTS SET UP
